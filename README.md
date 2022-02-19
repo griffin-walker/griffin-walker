@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @griffin-walker
+- 👋 Hi, I’m Griffin
 - 👀 I’m interested in: data science, python, statistics (especially as it relates to sports)
 - 🌱 I’m currently learning: javascript
 - 📫 How to reach me : https://www.linkedin.com/in/wgriffinwalker/
